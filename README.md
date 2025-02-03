@@ -20,5 +20,8 @@ berikut ini adalah ERD dari sistem sewa console
 
 
 # SKEMA ACTOR
-
+- USECASE Diagram
 ![Image](https://github.com/user-attachments/assets/0579d3ee-3f44-4c85-b68d-f0f26a2d6efc)
+
+- ACTIVITY DIAGRAM
+  ![Image](https://github.com/user-attachments/assets/c6d9140d-510f-47da-b744-c66e077b22bf)
