@@ -11,5 +11,6 @@ Aldiansyah Putra ibrahim (2211310006)
   Kapasitas minimum 32 GB untuk menginstal Windows Server 2022 atau yang lebih baru
 - Framework yang digunakan adalah bootstrap untuk membuat tampilan web lebih menarik
 - bahasa pemograman yang digunakan adalah PHP
-  
+#SKEMA DATABASE
+berikut ini adalah ERD dari sistem sewa console
 ![Image](https://github.com/user-attachments/assets/18bdfa9f-cd3d-4c27-adb7-1ce177b685ca)
