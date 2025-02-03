@@ -17,3 +17,8 @@ berikut ini adalah ERD dari sistem sewa console
 
 
 ![Image](https://github.com/user-attachments/assets/18bdfa9f-cd3d-4c27-adb7-1ce177b685ca)
+
+
+# SKEMA ACTOR
+
+![Image](https://github.com/user-attachments/assets/0579d3ee-3f44-4c85-b68d-f0f26a2d6efc)
