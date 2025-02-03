@@ -61,5 +61,7 @@ Proyek ini dikembangkan sebagai aplikasi berbasis web, yang memungkinkan akses d
 
 Selama proses pengembangan, saya menggunakan beberapa perangkat lunak pendukung, termasuk XAMPP sebagai server lokal untuk menjalankan Apache, MySQL, dan PHP, Visual Studio Code sebagai editor kode utama dengan ekstensi pendukung untuk PHP dan Laravel, serta Composer sebagai manajer dependensi untuk mengelola paket dan library yang digunakan dalam proyek. Dengan kombinasi teknologi ini, sistem dapat dikembangkan secara lebih efisien, aman, dan mudah dikelola sesuai dengan kebutuhan pengguna.
 
+### Seluruh codingan ada di dalam file yang bisa di akses di atas
+
 
 
