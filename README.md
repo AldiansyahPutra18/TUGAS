@@ -12,8 +12,8 @@ Aldiansyah Putra ibrahim (2211310006)
 - Framework yang digunakan adalah bootstrap untuk membuat tampilan web lebih menarik
 - bahasa pemograman yang digunakan adalah PHP
   
-#SKEMA DATABASE
-
-
+# SKEMA DATABASE
 berikut ini adalah ERD dari sistem sewa console
+
+
 ![Image](https://github.com/user-attachments/assets/18bdfa9f-cd3d-4c27-adb7-1ce177b685ca)
