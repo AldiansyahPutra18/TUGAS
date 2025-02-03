@@ -27,3 +27,12 @@ berikut ini adalah ERD dari sistem sewa console
 - ACTIVITY DIAGRAM
   
   ![Image](https://github.com/user-attachments/assets/c6d9140d-510f-47da-b744-c66e077b22bf)
+
+- SEQUNCE DIAGRAM
+  (peminjaman)
+  
+  ![Image](https://github.com/user-attachments/assets/34bb025e-21a9-4188-855b-ab4d647738c2)
+
+  (pengembalian)
+
+  ![Image](https://github.com/user-attachments/assets/b4b88501-e98e-4e68-af19-bfb4c3d905b1)
